@@ -56,13 +56,13 @@ Siga os passos abaixo para rodar o projeto localmente:
 - **Requisição:**
   ```json
   {
-    "url": "https://exemplo.com/minha-url-longa"
+    "url": "https://exemplo.com/minha-url-super-longa"
   }
   ```
 - **Resposta:**
   ```json
   {
-    "shortened_url": "http://localhost:8080/abc12"
+    "shortened_url": "http://localhost:8080/api/v1/urls/abc12"
   }
   ```
 
